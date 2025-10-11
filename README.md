@@ -1,7 +1,7 @@
 # CSI – Competitive Programming 101 💻
 
 Welcome to the **Competitive Programming 101** workshop repository!  
-This one-day, hands-on workshop by **CSI-RAIT** is designed to kickstart your journey into the world of Competitive Programming.
+This hands-on workshop by **CSI-RAIT** is designed to kickstart your journey into the world of Competitive Programming.
 
 ---
 
@@ -19,14 +19,6 @@ In this workshop, participants will:
 
 ---
 
-## Event Details
-
-- **Date:** 11 October 2025  
-- **Venue:** Lab 513, RAIT  
-- **Audience:** Beginners & coding enthusiasts eager to level up their skills
-
----
-
 ## Workshop Materials
 
 This repository may include:
@@ -41,4 +33,4 @@ This repository may include:
 
 1. Clone this repository:  
    ```bash
-   https://github.com/SmitroniX/CSI-Competitive-Programming-101.git
+   git clone https://github.com/SmitroniX/CSI-Competitive-Programming-101.git
