@@ -33,4 +33,5 @@ This repository may include:
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/SmitroniX/CSI-Competitive-Programming-101.git
+
+   git clone https://github.com/DY-Patil-RAIT/CSI-Competitive-Programming-101.git
